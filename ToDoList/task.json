@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Golang",
+    "completed": false,
+    "description": "Learn Golang and Postgres",
+    "dueDate": "2023-04-12",
+    "priority": "medium",
+    "startDate": "2023-01-01"
+  },
+  {
+    "id": 2,
+    "title": "Learn English",
+    "completed": false,
+    "description": "Learn Golang and Postgres",
+    "dueDate": "2023-04-12",
+    "priority": "high",
+    "startDate": "2023-01-01"
+  },
+  {
+    "id": 3,
+    "title": "Learn Golang",
+    "completed": false,
+    "description": "Learn Golang and Postgres",
+    "dueDate": "2023-04-12",
+    "priority": "high",
+    "startDate": "2023-01-01"
+  }
+]
